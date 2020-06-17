@@ -32,7 +32,7 @@ Interface Mobile, onde os desenvolvedores podem ser visualizados no mapa, filtra
 $ cd backend
 # Para instalar todas as dependências, execute:
 $ npm install
-# Para criar o banco de dados da aplicação, execute:
+# Para rodar a aplicação, execute:
 $ npm run dev
 
 #Acessando web
